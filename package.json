@@ -1,0 +1,12 @@
+{
+  "name": "crypto-dashboard-ghays2025",
+  "version": "1.0.0",
+  "description": "Crypto dashboard with calculator utilities",
+  "main": "src/utils/calculator.js",
+  "scripts": {
+    "test": "node test/calculator.test.js"
+  },
+  "keywords": ["calculator", "crypto", "dashboard", "utilities"],
+  "author": "",
+  "license": "ISC"
+}
